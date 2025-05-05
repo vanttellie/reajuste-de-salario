@@ -1,0 +1,17 @@
+{
+  "name": "reajustedesalario",
+  "version": "1.0.0",
+  "description": "Aplicação para calcular reajuste de salário",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/vanttellie/reajuste-de-salario.git"
+},
+  "author": "Ellen Priscila",
+  "license": "ISC"
+}
